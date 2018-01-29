@@ -1,0 +1,54 @@
+ body{
+    background-color: #2d2c2c;
+    color: lightgray;
+    font-family: 'Montserrat', sans-serif;
+ }
+
+ h1{
+   font-size5px;   
+ }
+
+ p{
+   font-size: 20px;  
+ }
+
+ .quotes-container{
+    background-color: #c3cbc3;
+    color: #2d2c2c;;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    border-color: white;
+    border-style: solid;
+    border-radius: 8px;
+    margin-top: 70px;
+    padding: 40px;
+  }
+  
+  .quotes{
+    font-size: 25px;
+   }
+
+  .author{
+    font-size: 15px;
+    font-style: italic;
+    padding: 20px;
+    margin-left: 55%;
+    margin-top: 30%;
+   }
+  .twitter{
+    margin-right: 45%;
+    margin-top: 90px;
+  }
+
+  .next-quote {
+    margin-top: 90px;
+  }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
