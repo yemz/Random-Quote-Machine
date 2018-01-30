@@ -12,4 +12,4 @@ User Stories:
 Note: Internet Explorer compatible.
 
 -----------------------------------------------------------------------------------------------------------------------------------
-Live App: https://s.codepen.io/yesseniamelendez/debug/BwEWqe/vWkRwnqgPBxM
+Live App: https://codepen.io/yesseniamelendez/pen/BwEWqe
